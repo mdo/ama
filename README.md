@@ -1,7 +1,7 @@
 # mdo/feedback
 
 This is a quick little ask-me-anything type of repository. It is forked from 
-[@holman's feedback repo](/holman/feedback) and seems like a pretty fantastic 
+[@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
 idea in lieu of traditional blog comments, email, and the like.
 
 If you have any technical problems with Git or GitHub, you're better off 
